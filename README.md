@@ -62,7 +62,7 @@ Implement an Online Banking feature on the bank’s customer-facing website that
 
 ## Author
 **Saad Elboukhali**  
-Business Analyst | Data Analyst | IT & Digital Systems
+Junior Business Analyst 
 
 ---
 
